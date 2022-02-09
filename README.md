@@ -1,12 +1,12 @@
 ### Hi there 👋, I am [Julien](https://HoernchenJ.github.io/)!
 
-Hello, my name is Julien Meier and I am a bachelor's student in Germany majoring in Computer Science. 
-My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, JavaScript, React.js, Electron, Docker, Kubernetes and HTML/CSS/Bootstrap.
+Hello, my name is Julien and I am a bachelor's student in Germany majoring in Computer Science. 
+My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, JavaScript, React.js, Electron, Docker, Kubernetes and HTML/CSS.
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Flutter and AWS
 - 💬 Brainstorm with me over tech
 - 📫 How to reach me: julienmeier09@gmail.com
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on open source projects
 
 ### &#x1f4c8; GitHub Stats
 
