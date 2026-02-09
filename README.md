@@ -1,7 +1,7 @@
 ### Hi there 👋, I am [Julien](https://HoernchenJ.github.io/)!
 
-Hello, my name is Julien and I am a bachelor's student in Germany majoring in Computer Science. 
-My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, JavaScript, React.js, Electron, Docker, Kubernetes and HTML/CSS.
+Hello, my name is Julien. 
+My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, JavaScript, React.js, Electron, Docker, Kubernetes and HTML/CSS andy many more.
 
 - 🌱 I’m currently learning Flutter and AWS
 - 💬 Brainstorm with me over tech
@@ -17,3 +17,4 @@ My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, JavaScr
 
 
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
